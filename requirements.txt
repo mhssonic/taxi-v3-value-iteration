@@ -1,0 +1,11 @@
+gymnasium>=0.29.1
+numpy>=1.26.0
+jupyter>=1.0.0
+ipython>=8.0.0
+matplotlib>=3.8.0
+pillow>=10.0.0
+moviepy>=1.0.3
+imageio>=2.34.0
+imageio-ffmpeg>=0.4.9
+pygame>=2.5.0
+tqdm>=4.66.0
